@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anirudh1006/dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudh1006/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Anirudh1006/dsa/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anirudh1006/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Anirudh1006/dsa/tree/master/1108-defanging-an-ip-address) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anirudh1006/dsa/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
