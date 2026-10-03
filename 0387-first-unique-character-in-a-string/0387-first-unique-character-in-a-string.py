@@ -11,7 +11,11 @@ class Solution(object):
         for i in range(len(s)):
             if freq[s[i]] ==1:
                 return i
+        
+        return -1   
+
+
            
-        return -1                
+                      
 
        
