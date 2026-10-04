@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anirudh1006/dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudh1006/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Anirudh1006/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Anirudh1006/dsa/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anirudh1006/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anirudh1006/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Anirudh1006/dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anirudh1006/dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudh1006/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh1006/dsa/tree/master/0905-sort-array-by-parity) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Anirudh1006/dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anirudh1006/dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudh1006/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Anirudh1006/dsa/tree/master/1108-defanging-an-ip-address) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anirudh1006/dsa/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Anirudh1006/dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anirudh1006/dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudh1006/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudh1006/dsa/tree/master/0387-first-unique-character-in-a-string) |
