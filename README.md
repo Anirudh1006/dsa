@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anirudh1006/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Anirudh1006/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/Anirudh1006/dsa/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anirudh1006/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Anirudh1006/dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Anirudh1006/dsa/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anirudh1006/dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anirudh1006/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anirudh1006/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Anirudh1006/dsa/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anirudh1006/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Queue
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anirudh1006/dsa/tree/master/0075-sort-colors) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anirudh1006/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
